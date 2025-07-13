@@ -6,6 +6,12 @@ url: https://CUHK-Robocon.github.io/knowledge-base
 
 color_scheme: dark
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
 callouts:
   note:
     title: Note
