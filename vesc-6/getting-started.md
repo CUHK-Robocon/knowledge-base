@@ -29,12 +29,12 @@ Use a vise or any tool of your choice to attach the protective cap afterwards.
 
 Examples:
 
-![VESC power input connector](/assets/img/vesc-vin.jpg)
+![VESC power input connector](../assets/img/vesc-vin.jpg)
 
-![VESC three-phrase connector](/assets/img/vesc-three-phrase.jpg)
+![VESC three-phrase connector](../assets/img/vesc-three-phrase.jpg)
 
 ### CAN Bus Termination Resistor
 
 Make sure the CAN Bus termination resistor is removed as shown in the following image:
 
-![VESC CAN Bus termination resistor](/assets/img/vesc-termination-resistor.jpg)
+![VESC CAN Bus termination resistor](../assets/img/vesc-termination-resistor.jpg)
